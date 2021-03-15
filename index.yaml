@@ -3,7 +3,7 @@ entries:
   git_repo_test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-15T21:10:45.959241+02:00"
+    created: "2021-03-15T21:28:14.4126169+02:00"
     description: A Helm chart for Kubernetes Using Git Repo
     digest: 054f6e471db95e48c7500de78b379f0f2f106dd741ddf09a44c66a974746adca
     name: git_repo_test
@@ -11,4 +11,15 @@ entries:
     urls:
     - git_repo_test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-15T21:10:45.9582671+02:00"
+  git_repo_test2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-15T21:28:14.4135919+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 51593bf297270d44864351c242714897926aead236795c8658e7138b1db348b9
+    name: git_repo_test2
+    type: application
+    urls:
+    - git_repo_test2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-15T21:28:14.4106629+02:00"
